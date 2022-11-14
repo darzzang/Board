@@ -1,0 +1,14 @@
+.BoardWrap {
+    width: 500px;
+    margin: auto;
+    /* display: flex; */
+}
+
+.BoardTitle{
+    width: 100%;
+    margin: auto;
+}
+
+.writer {
+    float: right;
+}
